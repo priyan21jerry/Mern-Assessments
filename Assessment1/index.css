@@ -1,0 +1,22 @@
+.navbar{
+    font-family:Cambria, Cochin, Georgia, Times, 
+    'Times New Roman', serif;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    background-color: plum;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana,
+     sans-serif;
+}
+
+.container>.left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
